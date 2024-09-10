@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pawan-pawar-a83307222/](https://www.linkedin.com/in/pawan-pawar-a83307222/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/PawanPawar11)
 
 - 💬 Ask me about **JavaScript, React, Next.js, GSAP**
 
